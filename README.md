@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://t.me/willsem"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href="https://vk.com/d.yabl"><img alt="VKontakte" src="https://img.shields.io/badge/VKontakte-1881b5?style=for-the-badge&logo=vk&logoColor=white" /></a>
+    <a href="https://t.me/windgim"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 <img alt="Gimer Portfolio Card" src="img/portfolio_card.jpg" />

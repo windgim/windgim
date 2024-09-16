@@ -7,11 +7,11 @@
 </p>
 
 <div align="center">
-    <img alt="Gimer Portfolio Card" src="img/portfolio_card.jpg" />    
-</div>                                                                                                                                                                                                                                                                           
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=500&color=58AFF7&center=true&width=435&lines=Python+Developer;IThub+Student" alt="Typing SVG" /></a>
+</div>                                                                                                                                                                                                                                                                         
 
 <div align="center"> 
-  
+
 |                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | :-------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     **Languages**     | <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
